@@ -1,0 +1,1402 @@
+[
+  {
+    "nombre": "Mascota1",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 2,
+    "propietario": {
+      "nombre": "Propietario1",
+      "telefono": "30050001"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota2",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 3,
+    "propietario": {
+      "nombre": "Propietario2",
+      "telefono": "30050002"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota3",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 4,
+    "propietario": {
+      "nombre": "Propietario3",
+      "telefono": "30050003"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota4",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 5,
+    "propietario": {
+      "nombre": "Propietario4",
+      "telefono": "30050004"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota5",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 6,
+    "propietario": {
+      "nombre": "Propietario5",
+      "telefono": "30050005"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota6",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 7,
+    "propietario": {
+      "nombre": "Propietario6",
+      "telefono": "30050006"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota7",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 1,
+    "propietario": {
+      "nombre": "Propietario7",
+      "telefono": "30050007"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota8",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 2,
+    "propietario": {
+      "nombre": "Propietario8",
+      "telefono": "30050008"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota9",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 3,
+    "propietario": {
+      "nombre": "Propietario9",
+      "telefono": "30050009"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota10",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 4,
+    "propietario": {
+      "nombre": "Propietario10",
+      "telefono": "30050010"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota11",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 5,
+    "propietario": {
+      "nombre": "Propietario11",
+      "telefono": "30050011"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota12",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 6,
+    "propietario": {
+      "nombre": "Propietario12",
+      "telefono": "30050012"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota13",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 7,
+    "propietario": {
+      "nombre": "Propietario13",
+      "telefono": "30050013"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota14",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 1,
+    "propietario": {
+      "nombre": "Propietario14",
+      "telefono": "30050014"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota15",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 2,
+    "propietario": {
+      "nombre": "Propietario15",
+      "telefono": "30050015"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota16",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 3,
+    "propietario": {
+      "nombre": "Propietario16",
+      "telefono": "30050016"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota17",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 4,
+    "propietario": {
+      "nombre": "Propietario17",
+      "telefono": "30050017"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota18",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 5,
+    "propietario": {
+      "nombre": "Propietario18",
+      "telefono": "30050018"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota19",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 6,
+    "propietario": {
+      "nombre": "Propietario19",
+      "telefono": "30050019"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota20",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 7,
+    "propietario": {
+      "nombre": "Propietario20",
+      "telefono": "30050020"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota21",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 1,
+    "propietario": {
+      "nombre": "Propietario21",
+      "telefono": "30050021"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota22",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 2,
+    "propietario": {
+      "nombre": "Propietario22",
+      "telefono": "30050022"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota23",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 3,
+    "propietario": {
+      "nombre": "Propietario23",
+      "telefono": "30050023"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota24",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 4,
+    "propietario": {
+      "nombre": "Propietario24",
+      "telefono": "30050024"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota25",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 5,
+    "propietario": {
+      "nombre": "Propietario25",
+      "telefono": "30050025"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota26",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 6,
+    "propietario": {
+      "nombre": "Propietario26",
+      "telefono": "30050026"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota27",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 7,
+    "propietario": {
+      "nombre": "Propietario27",
+      "telefono": "30050027"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota28",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 1,
+    "propietario": {
+      "nombre": "Propietario28",
+      "telefono": "30050028"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota29",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 2,
+    "propietario": {
+      "nombre": "Propietario29",
+      "telefono": "30050029"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota30",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 3,
+    "propietario": {
+      "nombre": "Propietario30",
+      "telefono": "30050030"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota31",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 4,
+    "propietario": {
+      "nombre": "Propietario31",
+      "telefono": "30050031"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota32",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 5,
+    "propietario": {
+      "nombre": "Propietario32",
+      "telefono": "30050032"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota33",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 6,
+    "propietario": {
+      "nombre": "Propietario33",
+      "telefono": "30050033"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota34",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 7,
+    "propietario": {
+      "nombre": "Propietario34",
+      "telefono": "30050034"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota35",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 1,
+    "propietario": {
+      "nombre": "Propietario35",
+      "telefono": "30050035"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota36",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 2,
+    "propietario": {
+      "nombre": "Propietario36",
+      "telefono": "30050036"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota37",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 3,
+    "propietario": {
+      "nombre": "Propietario37",
+      "telefono": "30050037"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota38",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 4,
+    "propietario": {
+      "nombre": "Propietario38",
+      "telefono": "30050038"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota39",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 5,
+    "propietario": {
+      "nombre": "Propietario39",
+      "telefono": "30050039"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota40",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 6,
+    "propietario": {
+      "nombre": "Propietario40",
+      "telefono": "30050040"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota41",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 7,
+    "propietario": {
+      "nombre": "Propietario41",
+      "telefono": "30050041"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota42",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 1,
+    "propietario": {
+      "nombre": "Propietario42",
+      "telefono": "30050042"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota43",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 2,
+    "propietario": {
+      "nombre": "Propietario43",
+      "telefono": "30050043"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota44",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 3,
+    "propietario": {
+      "nombre": "Propietario44",
+      "telefono": "30050044"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota45",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 4,
+    "propietario": {
+      "nombre": "Propietario45",
+      "telefono": "30050045"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota46",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 5,
+    "propietario": {
+      "nombre": "Propietario46",
+      "telefono": "30050046"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota47",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 6,
+    "propietario": {
+      "nombre": "Propietario47",
+      "telefono": "30050047"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota48",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 7,
+    "propietario": {
+      "nombre": "Propietario48",
+      "telefono": "30050048"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota49",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 1,
+    "propietario": {
+      "nombre": "Propietario49",
+      "telefono": "30050049"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota50",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 2,
+    "propietario": {
+      "nombre": "Propietario50",
+      "telefono": "30050050"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota51",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 3,
+    "propietario": {
+      "nombre": "Propietario51",
+      "telefono": "30050051"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota52",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 4,
+    "propietario": {
+      "nombre": "Propietario52",
+      "telefono": "30050052"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota53",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 5,
+    "propietario": {
+      "nombre": "Propietario53",
+      "telefono": "30050053"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota54",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 6,
+    "propietario": {
+      "nombre": "Propietario54",
+      "telefono": "30050054"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota55",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 7,
+    "propietario": {
+      "nombre": "Propietario55",
+      "telefono": "30050055"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota56",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 1,
+    "propietario": {
+      "nombre": "Propietario56",
+      "telefono": "30050056"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota57",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 2,
+    "propietario": {
+      "nombre": "Propietario57",
+      "telefono": "30050057"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota58",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 3,
+    "propietario": {
+      "nombre": "Propietario58",
+      "telefono": "30050058"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota59",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 4,
+    "propietario": {
+      "nombre": "Propietario59",
+      "telefono": "30050059"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota60",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 5,
+    "propietario": {
+      "nombre": "Propietario60",
+      "telefono": "30050060"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota61",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 6,
+    "propietario": {
+      "nombre": "Propietario61",
+      "telefono": "30050061"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota62",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 7,
+    "propietario": {
+      "nombre": "Propietario62",
+      "telefono": "30050062"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota63",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 1,
+    "propietario": {
+      "nombre": "Propietario63",
+      "telefono": "30050063"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota64",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 2,
+    "propietario": {
+      "nombre": "Propietario64",
+      "telefono": "30050064"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota65",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 3,
+    "propietario": {
+      "nombre": "Propietario65",
+      "telefono": "30050065"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota66",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 4,
+    "propietario": {
+      "nombre": "Propietario66",
+      "telefono": "30050066"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota67",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 5,
+    "propietario": {
+      "nombre": "Propietario67",
+      "telefono": "30050067"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota68",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 6,
+    "propietario": {
+      "nombre": "Propietario68",
+      "telefono": "30050068"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota69",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 7,
+    "propietario": {
+      "nombre": "Propietario69",
+      "telefono": "30050069"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota70",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 1,
+    "propietario": {
+      "nombre": "Propietario70",
+      "telefono": "30050070"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota71",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 2,
+    "propietario": {
+      "nombre": "Propietario71",
+      "telefono": "30050071"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota72",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 3,
+    "propietario": {
+      "nombre": "Propietario72",
+      "telefono": "30050072"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota73",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 4,
+    "propietario": {
+      "nombre": "Propietario73",
+      "telefono": "30050073"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota74",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 5,
+    "propietario": {
+      "nombre": "Propietario74",
+      "telefono": "30050074"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota75",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 6,
+    "propietario": {
+      "nombre": "Propietario75",
+      "telefono": "30050075"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota76",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 7,
+    "propietario": {
+      "nombre": "Propietario76",
+      "telefono": "30050076"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota77",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 1,
+    "propietario": {
+      "nombre": "Propietario77",
+      "telefono": "30050077"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota78",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 2,
+    "propietario": {
+      "nombre": "Propietario78",
+      "telefono": "30050078"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota79",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 3,
+    "propietario": {
+      "nombre": "Propietario79",
+      "telefono": "30050079"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota80",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 4,
+    "propietario": {
+      "nombre": "Propietario80",
+      "telefono": "30050080"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota81",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 5,
+    "propietario": {
+      "nombre": "Propietario81",
+      "telefono": "30050081"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota82",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 6,
+    "propietario": {
+      "nombre": "Propietario82",
+      "telefono": "30050082"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota83",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 7,
+    "propietario": {
+      "nombre": "Propietario83",
+      "telefono": "30050083"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota84",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 1,
+    "propietario": {
+      "nombre": "Propietario84",
+      "telefono": "30050084"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota85",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 2,
+    "propietario": {
+      "nombre": "Propietario85",
+      "telefono": "30050085"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota86",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 3,
+    "propietario": {
+      "nombre": "Propietario86",
+      "telefono": "30050086"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota87",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 4,
+    "propietario": {
+      "nombre": "Propietario87",
+      "telefono": "30050087"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota88",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 5,
+    "propietario": {
+      "nombre": "Propietario88",
+      "telefono": "30050088"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota89",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 6,
+    "propietario": {
+      "nombre": "Propietario89",
+      "telefono": "30050089"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota90",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 7,
+    "propietario": {
+      "nombre": "Propietario90",
+      "telefono": "30050090"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota91",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 1,
+    "propietario": {
+      "nombre": "Propietario91",
+      "telefono": "30050091"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota92",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 2,
+    "propietario": {
+      "nombre": "Propietario92",
+      "telefono": "30050092"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota93",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 3,
+    "propietario": {
+      "nombre": "Propietario93",
+      "telefono": "30050093"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota94",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 4,
+    "propietario": {
+      "nombre": "Propietario94",
+      "telefono": "30050094"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota95",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 5,
+    "propietario": {
+      "nombre": "Propietario95",
+      "telefono": "30050095"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota96",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 6,
+    "propietario": {
+      "nombre": "Propietario96",
+      "telefono": "30050096"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota97",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 7,
+    "propietario": {
+      "nombre": "Propietario97",
+      "telefono": "30050097"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota98",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 1,
+    "propietario": {
+      "nombre": "Propietario98",
+      "telefono": "30050098"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota99",
+    "tipo": "Perro",
+    "raza": "Criollo",
+    "edad": 2,
+    "propietario": {
+      "nombre": "Propietario99",
+      "telefono": "30050099"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  },
+  {
+    "nombre": "Mascota100",
+    "tipo": "Gato",
+    "raza": "Persa",
+    "edad": 3,
+    "propietario": {
+      "nombre": "Propietario100",
+      "telefono": "30050100"
+    },
+    "vacunas": [
+      "rabia"
+    ],
+    "alergias": []
+  }
+]

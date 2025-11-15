@@ -1,0 +1,1052 @@
+[
+  {
+    "nombreMascota": "Mascota74",
+    "fecha": "2024-12-01",
+    "motivo": "Control general",
+    "peso": 12.0,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota26",
+    "fecha": "2024-10-13",
+    "motivo": "Vacunación",
+    "peso": 26.7,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota68",
+    "fecha": "2024-06-12",
+    "motivo": "Control general",
+    "peso": 8.6,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota33",
+    "fecha": "2024-01-15",
+    "motivo": "Control general",
+    "peso": 24.1,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota22",
+    "fecha": "2024-12-09",
+    "motivo": "Vacunación",
+    "peso": 4.4,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota74",
+    "fecha": "2024-01-10",
+    "motivo": "Chequeo dental",
+    "peso": 23.8,
+    "tratamiento": "Vendaje"
+  },
+  {
+    "nombreMascota": "Mascota39",
+    "fecha": "2024-09-07",
+    "motivo": "Vacunación",
+    "peso": 21.7,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota4",
+    "fecha": "2024-06-16",
+    "motivo": "Chequeo dental",
+    "peso": 14.2,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota9",
+    "fecha": "2024-08-15",
+    "motivo": "Herida leve",
+    "peso": 23.5,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota20",
+    "fecha": "2024-06-07",
+    "motivo": "Vacunación",
+    "peso": 24.5,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota42",
+    "fecha": "2024-09-19",
+    "motivo": "Control general",
+    "peso": 30.6,
+    "tratamiento": "Vendaje"
+  },
+  {
+    "nombreMascota": "Mascota13",
+    "fecha": "2024-09-12",
+    "motivo": "Chequeo dental",
+    "peso": 30.5,
+    "tratamiento": "Vitaminas"
+  },
+  {
+    "nombreMascota": "Mascota62",
+    "fecha": "2024-01-12",
+    "motivo": "Enfermedad",
+    "peso": 11.6,
+    "tratamiento": "Vendaje"
+  },
+  {
+    "nombreMascota": "Mascota94",
+    "fecha": "2024-06-22",
+    "motivo": "Control general",
+    "peso": 6.4,
+    "tratamiento": "Vitaminas"
+  },
+  {
+    "nombreMascota": "Mascota80",
+    "fecha": "2024-10-15",
+    "motivo": "Enfermedad",
+    "peso": 11.0,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota6",
+    "fecha": "2024-05-05",
+    "motivo": "Enfermedad",
+    "peso": 27.4,
+    "tratamiento": "Vendaje"
+  },
+  {
+    "nombreMascota": "Mascota38",
+    "fecha": "2024-04-04",
+    "motivo": "Vacunación",
+    "peso": 32.0,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota45",
+    "fecha": "2024-09-16",
+    "motivo": "Control general",
+    "peso": 31.6,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota18",
+    "fecha": "2024-11-10",
+    "motivo": "Herida leve",
+    "peso": 8.8,
+    "tratamiento": "Vitaminas"
+  },
+  {
+    "nombreMascota": "Mascota76",
+    "fecha": "2024-12-01",
+    "motivo": "Vacunación",
+    "peso": 24.1,
+    "tratamiento": "Vendaje"
+  },
+  {
+    "nombreMascota": "Mascota57",
+    "fecha": "2024-04-12",
+    "motivo": "Vacunación",
+    "peso": 12.7,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota82",
+    "fecha": "2024-10-05",
+    "motivo": "Chequeo dental",
+    "peso": 24.6,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota24",
+    "fecha": "2024-09-26",
+    "motivo": "Control general",
+    "peso": 17.9,
+    "tratamiento": "Vitaminas"
+  },
+  {
+    "nombreMascota": "Mascota19",
+    "fecha": "2024-07-04",
+    "motivo": "Control general",
+    "peso": 19.0,
+    "tratamiento": "Vendaje"
+  },
+  {
+    "nombreMascota": "Mascota81",
+    "fecha": "2024-03-04",
+    "motivo": "Herida leve",
+    "peso": 4.5,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota50",
+    "fecha": "2024-10-20",
+    "motivo": "Chequeo dental",
+    "peso": 14.0,
+    "tratamiento": "Vendaje"
+  },
+  {
+    "nombreMascota": "Mascota36",
+    "fecha": "2024-01-01",
+    "motivo": "Control general",
+    "peso": 4.1,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota33",
+    "fecha": "2024-11-09",
+    "motivo": "Chequeo dental",
+    "peso": 26.4,
+    "tratamiento": "Vitaminas"
+  },
+  {
+    "nombreMascota": "Mascota85",
+    "fecha": "2024-10-02",
+    "motivo": "Enfermedad",
+    "peso": 9.8,
+    "tratamiento": "Vendaje"
+  },
+  {
+    "nombreMascota": "Mascota58",
+    "fecha": "2024-03-26",
+    "motivo": "Vacunación",
+    "peso": 19.6,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota51",
+    "fecha": "2024-12-18",
+    "motivo": "Enfermedad",
+    "peso": 24.0,
+    "tratamiento": "Vendaje"
+  },
+  {
+    "nombreMascota": "Mascota66",
+    "fecha": "2024-02-17",
+    "motivo": "Chequeo dental",
+    "peso": 8.1,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota64",
+    "fecha": "2024-06-16",
+    "motivo": "Herida leve",
+    "peso": 33.3,
+    "tratamiento": "Vendaje"
+  },
+  {
+    "nombreMascota": "Mascota11",
+    "fecha": "2024-11-26",
+    "motivo": "Control general",
+    "peso": 13.0,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota51",
+    "fecha": "2024-12-29",
+    "motivo": "Chequeo dental",
+    "peso": 31.4,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota30",
+    "fecha": "2024-10-07",
+    "motivo": "Vacunación",
+    "peso": 30.7,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota19",
+    "fecha": "2024-07-30",
+    "motivo": "Enfermedad",
+    "peso": 32.0,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota3",
+    "fecha": "2024-05-16",
+    "motivo": "Enfermedad",
+    "peso": 18.5,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota47",
+    "fecha": "2024-11-01",
+    "motivo": "Herida leve",
+    "peso": 3.4,
+    "tratamiento": "Vitaminas"
+  },
+  {
+    "nombreMascota": "Mascota64",
+    "fecha": "2024-06-27",
+    "motivo": "Chequeo dental",
+    "peso": 19.7,
+    "tratamiento": "Vitaminas"
+  },
+  {
+    "nombreMascota": "Mascota27",
+    "fecha": "2024-11-19",
+    "motivo": "Chequeo dental",
+    "peso": 19.0,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota19",
+    "fecha": "2024-08-25",
+    "motivo": "Control general",
+    "peso": 24.8,
+    "tratamiento": "Vendaje"
+  },
+  {
+    "nombreMascota": "Mascota90",
+    "fecha": "2024-01-21",
+    "motivo": "Chequeo dental",
+    "peso": 4.1,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota80",
+    "fecha": "2024-02-18",
+    "motivo": "Vacunación",
+    "peso": 17.5,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota50",
+    "fecha": "2024-06-13",
+    "motivo": "Enfermedad",
+    "peso": 28.8,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota79",
+    "fecha": "2024-08-02",
+    "motivo": "Enfermedad",
+    "peso": 12.8,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota47",
+    "fecha": "2024-06-02",
+    "motivo": "Vacunación",
+    "peso": 29.1,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota30",
+    "fecha": "2024-02-19",
+    "motivo": "Control general",
+    "peso": 18.4,
+    "tratamiento": "Vitaminas"
+  },
+  {
+    "nombreMascota": "Mascota81",
+    "fecha": "2024-08-22",
+    "motivo": "Chequeo dental",
+    "peso": 21.8,
+    "tratamiento": "Vitaminas"
+  },
+  {
+    "nombreMascota": "Mascota9",
+    "fecha": "2024-09-05",
+    "motivo": "Vacunación",
+    "peso": 25.1,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota3",
+    "fecha": "2024-11-13",
+    "motivo": "Herida leve",
+    "peso": 16.4,
+    "tratamiento": "Vendaje"
+  },
+  {
+    "nombreMascota": "Mascota51",
+    "fecha": "2024-01-08",
+    "motivo": "Enfermedad",
+    "peso": 32.7,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota17",
+    "fecha": "2024-09-29",
+    "motivo": "Herida leve",
+    "peso": 5.0,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota28",
+    "fecha": "2024-06-29",
+    "motivo": "Enfermedad",
+    "peso": 33.9,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota52",
+    "fecha": "2024-07-16",
+    "motivo": "Herida leve",
+    "peso": 27.4,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota16",
+    "fecha": "2024-03-07",
+    "motivo": "Control general",
+    "peso": 11.8,
+    "tratamiento": "Vitaminas"
+  },
+  {
+    "nombreMascota": "Mascota59",
+    "fecha": "2024-09-09",
+    "motivo": "Herida leve",
+    "peso": 33.0,
+    "tratamiento": "Vendaje"
+  },
+  {
+    "nombreMascota": "Mascota81",
+    "fecha": "2024-01-27",
+    "motivo": "Herida leve",
+    "peso": 5.4,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota27",
+    "fecha": "2024-05-30",
+    "motivo": "Enfermedad",
+    "peso": 30.5,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota35",
+    "fecha": "2024-04-21",
+    "motivo": "Herida leve",
+    "peso": 5.0,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota69",
+    "fecha": "2024-02-18",
+    "motivo": "Herida leve",
+    "peso": 34.4,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota28",
+    "fecha": "2024-04-18",
+    "motivo": "Control general",
+    "peso": 17.2,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota92",
+    "fecha": "2024-05-08",
+    "motivo": "Enfermedad",
+    "peso": 30.1,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota100",
+    "fecha": "2024-04-20",
+    "motivo": "Chequeo dental",
+    "peso": 2.3,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota23",
+    "fecha": "2024-05-26",
+    "motivo": "Vacunación",
+    "peso": 4.3,
+    "tratamiento": "Vitaminas"
+  },
+  {
+    "nombreMascota": "Mascota45",
+    "fecha": "2024-07-17",
+    "motivo": "Enfermedad",
+    "peso": 32.3,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota86",
+    "fecha": "2024-12-27",
+    "motivo": "Enfermedad",
+    "peso": 23.6,
+    "tratamiento": "Vitaminas"
+  },
+  {
+    "nombreMascota": "Mascota69",
+    "fecha": "2024-05-19",
+    "motivo": "Herida leve",
+    "peso": 4.1,
+    "tratamiento": "Vendaje"
+  },
+  {
+    "nombreMascota": "Mascota34",
+    "fecha": "2024-01-20",
+    "motivo": "Herida leve",
+    "peso": 17.0,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota86",
+    "fecha": "2024-06-08",
+    "motivo": "Vacunación",
+    "peso": 2.7,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota97",
+    "fecha": "2024-07-21",
+    "motivo": "Control general",
+    "peso": 2.6,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota85",
+    "fecha": "2024-03-19",
+    "motivo": "Chequeo dental",
+    "peso": 33.2,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota97",
+    "fecha": "2024-12-07",
+    "motivo": "Herida leve",
+    "peso": 16.8,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota33",
+    "fecha": "2024-03-07",
+    "motivo": "Enfermedad",
+    "peso": 13.1,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota79",
+    "fecha": "2024-02-25",
+    "motivo": "Control general",
+    "peso": 3.6,
+    "tratamiento": "Vitaminas"
+  },
+  {
+    "nombreMascota": "Mascota44",
+    "fecha": "2024-01-17",
+    "motivo": "Control general",
+    "peso": 32.2,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota9",
+    "fecha": "2024-11-03",
+    "motivo": "Control general",
+    "peso": 2.5,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota29",
+    "fecha": "2024-12-23",
+    "motivo": "Chequeo dental",
+    "peso": 8.0,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota17",
+    "fecha": "2024-05-30",
+    "motivo": "Control general",
+    "peso": 16.3,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota33",
+    "fecha": "2024-08-13",
+    "motivo": "Enfermedad",
+    "peso": 20.1,
+    "tratamiento": "Vitaminas"
+  },
+  {
+    "nombreMascota": "Mascota26",
+    "fecha": "2024-12-12",
+    "motivo": "Vacunación",
+    "peso": 20.1,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota44",
+    "fecha": "2024-11-20",
+    "motivo": "Enfermedad",
+    "peso": 21.6,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota35",
+    "fecha": "2024-10-29",
+    "motivo": "Chequeo dental",
+    "peso": 9.3,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota42",
+    "fecha": "2024-09-07",
+    "motivo": "Control general",
+    "peso": 7.1,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota49",
+    "fecha": "2024-07-31",
+    "motivo": "Chequeo dental",
+    "peso": 16.9,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota43",
+    "fecha": "2024-06-19",
+    "motivo": "Chequeo dental",
+    "peso": 15.4,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota23",
+    "fecha": "2024-03-01",
+    "motivo": "Chequeo dental",
+    "peso": 22.5,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota52",
+    "fecha": "2024-12-20",
+    "motivo": "Vacunación",
+    "peso": 31.4,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota74",
+    "fecha": "2024-05-16",
+    "motivo": "Vacunación",
+    "peso": 6.9,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota6",
+    "fecha": "2024-10-23",
+    "motivo": "Herida leve",
+    "peso": 4.3,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota72",
+    "fecha": "2024-05-14",
+    "motivo": "Vacunación",
+    "peso": 27.4,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota60",
+    "fecha": "2024-10-27",
+    "motivo": "Herida leve",
+    "peso": 30.9,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota97",
+    "fecha": "2024-09-17",
+    "motivo": "Enfermedad",
+    "peso": 24.6,
+    "tratamiento": "Vitaminas"
+  },
+  {
+    "nombreMascota": "Mascota3",
+    "fecha": "2024-03-11",
+    "motivo": "Control general",
+    "peso": 24.8,
+    "tratamiento": "Vitaminas"
+  },
+  {
+    "nombreMascota": "Mascota60",
+    "fecha": "2024-11-01",
+    "motivo": "Enfermedad",
+    "peso": 31.0,
+    "tratamiento": "Vitaminas"
+  },
+  {
+    "nombreMascota": "Mascota90",
+    "fecha": "2024-06-07",
+    "motivo": "Enfermedad",
+    "peso": 6.5,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota8",
+    "fecha": "2024-02-18",
+    "motivo": "Control general",
+    "peso": 7.5,
+    "tratamiento": "Vendaje"
+  },
+  {
+    "nombreMascota": "Mascota97",
+    "fecha": "2024-11-26",
+    "motivo": "Vacunación",
+    "peso": 28.7,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota89",
+    "fecha": "2024-06-07",
+    "motivo": "Chequeo dental",
+    "peso": 29.0,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota59",
+    "fecha": "2024-04-28",
+    "motivo": "Enfermedad",
+    "peso": 19.2,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota36",
+    "fecha": "2024-08-27",
+    "motivo": "Herida leve",
+    "peso": 5.0,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota91",
+    "fecha": "2024-12-02",
+    "motivo": "Herida leve",
+    "peso": 11.8,
+    "tratamiento": "Vendaje"
+  },
+  {
+    "nombreMascota": "Mascota7",
+    "fecha": "2024-11-24",
+    "motivo": "Herida leve",
+    "peso": 24.3,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota82",
+    "fecha": "2024-04-17",
+    "motivo": "Herida leve",
+    "peso": 17.6,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota6",
+    "fecha": "2024-04-17",
+    "motivo": "Herida leve",
+    "peso": 19.4,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota13",
+    "fecha": "2024-07-08",
+    "motivo": "Control general",
+    "peso": 28.6,
+    "tratamiento": "Vitaminas"
+  },
+  {
+    "nombreMascota": "Mascota86",
+    "fecha": "2024-08-11",
+    "motivo": "Vacunación",
+    "peso": 27.1,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota92",
+    "fecha": "2024-08-25",
+    "motivo": "Enfermedad",
+    "peso": 21.1,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota16",
+    "fecha": "2024-06-20",
+    "motivo": "Enfermedad",
+    "peso": 18.8,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota58",
+    "fecha": "2024-09-10",
+    "motivo": "Enfermedad",
+    "peso": 27.5,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota24",
+    "fecha": "2024-05-29",
+    "motivo": "Chequeo dental",
+    "peso": 30.7,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota51",
+    "fecha": "2024-08-01",
+    "motivo": "Enfermedad",
+    "peso": 32.8,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota55",
+    "fecha": "2024-03-06",
+    "motivo": "Control general",
+    "peso": 8.1,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota7",
+    "fecha": "2024-05-06",
+    "motivo": "Chequeo dental",
+    "peso": 15.9,
+    "tratamiento": "Vendaje"
+  },
+  {
+    "nombreMascota": "Mascota21",
+    "fecha": "2024-05-18",
+    "motivo": "Vacunación",
+    "peso": 30.8,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota56",
+    "fecha": "2024-02-17",
+    "motivo": "Enfermedad",
+    "peso": 9.5,
+    "tratamiento": "Vendaje"
+  },
+  {
+    "nombreMascota": "Mascota19",
+    "fecha": "2024-05-03",
+    "motivo": "Enfermedad",
+    "peso": 10.5,
+    "tratamiento": "Vendaje"
+  },
+  {
+    "nombreMascota": "Mascota70",
+    "fecha": "2024-09-07",
+    "motivo": "Enfermedad",
+    "peso": 4.2,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota18",
+    "fecha": "2024-12-30",
+    "motivo": "Control general",
+    "peso": 21.5,
+    "tratamiento": "Vitaminas"
+  },
+  {
+    "nombreMascota": "Mascota70",
+    "fecha": "2024-09-04",
+    "motivo": "Vacunación",
+    "peso": 8.9,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota45",
+    "fecha": "2024-12-24",
+    "motivo": "Control general",
+    "peso": 34.0,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota81",
+    "fecha": "2024-08-29",
+    "motivo": "Chequeo dental",
+    "peso": 14.4,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota78",
+    "fecha": "2024-09-27",
+    "motivo": "Chequeo dental",
+    "peso": 7.0,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota51",
+    "fecha": "2024-10-29",
+    "motivo": "Herida leve",
+    "peso": 3.5,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota8",
+    "fecha": "2024-08-08",
+    "motivo": "Enfermedad",
+    "peso": 31.6,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota70",
+    "fecha": "2024-06-11",
+    "motivo": "Control general",
+    "peso": 6.0,
+    "tratamiento": "Vitaminas"
+  },
+  {
+    "nombreMascota": "Mascota65",
+    "fecha": "2024-10-04",
+    "motivo": "Vacunación",
+    "peso": 5.8,
+    "tratamiento": "Vitaminas"
+  },
+  {
+    "nombreMascota": "Mascota58",
+    "fecha": "2024-10-18",
+    "motivo": "Chequeo dental",
+    "peso": 28.8,
+    "tratamiento": "Vitaminas"
+  },
+  {
+    "nombreMascota": "Mascota94",
+    "fecha": "2024-11-09",
+    "motivo": "Control general",
+    "peso": 11.0,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota34",
+    "fecha": "2024-03-08",
+    "motivo": "Vacunación",
+    "peso": 20.1,
+    "tratamiento": "Vendaje"
+  },
+  {
+    "nombreMascota": "Mascota15",
+    "fecha": "2024-08-14",
+    "motivo": "Enfermedad",
+    "peso": 30.8,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota25",
+    "fecha": "2024-02-25",
+    "motivo": "Herida leve",
+    "peso": 21.3,
+    "tratamiento": "Vendaje"
+  },
+  {
+    "nombreMascota": "Mascota15",
+    "fecha": "2024-12-03",
+    "motivo": "Herida leve",
+    "peso": 20.5,
+    "tratamiento": "Vitaminas"
+  },
+  {
+    "nombreMascota": "Mascota11",
+    "fecha": "2024-09-02",
+    "motivo": "Herida leve",
+    "peso": 34.3,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota44",
+    "fecha": "2024-05-26",
+    "motivo": "Enfermedad",
+    "peso": 25.0,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota84",
+    "fecha": "2024-04-28",
+    "motivo": "Control general",
+    "peso": 10.5,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota12",
+    "fecha": "2024-01-23",
+    "motivo": "Chequeo dental",
+    "peso": 29.3,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota4",
+    "fecha": "2024-06-22",
+    "motivo": "Chequeo dental",
+    "peso": 4.0,
+    "tratamiento": "Vendaje"
+  },
+  {
+    "nombreMascota": "Mascota12",
+    "fecha": "2024-01-29",
+    "motivo": "Chequeo dental",
+    "peso": 15.0,
+    "tratamiento": "Antibiótico"
+  },
+  {
+    "nombreMascota": "Mascota13",
+    "fecha": "2024-05-04",
+    "motivo": "Herida leve",
+    "peso": 25.4,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota54",
+    "fecha": "2024-05-16",
+    "motivo": "Vacunación",
+    "peso": 20.6,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota64",
+    "fecha": "2024-09-16",
+    "motivo": "Control general",
+    "peso": 2.7,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota32",
+    "fecha": "2024-03-17",
+    "motivo": "Enfermedad",
+    "peso": 4.5,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota31",
+    "fecha": "2024-07-05",
+    "motivo": "Chequeo dental",
+    "peso": 8.8,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota18",
+    "fecha": "2024-05-21",
+    "motivo": "Vacunación",
+    "peso": 15.0,
+    "tratamiento": "Vendaje"
+  },
+  {
+    "nombreMascota": "Mascota46",
+    "fecha": "2024-02-11",
+    "motivo": "Herida leve",
+    "peso": 17.2,
+    "tratamiento": "Vitaminas"
+  },
+  {
+    "nombreMascota": "Mascota23",
+    "fecha": "2024-08-18",
+    "motivo": "Vacunación",
+    "peso": 6.4,
+    "tratamiento": "Desparasitación"
+  },
+  {
+    "nombreMascota": "Mascota14",
+    "fecha": "2024-04-13",
+    "motivo": "Herida leve",
+    "peso": 25.2,
+    "tratamiento": "Vendaje"
+  },
+  {
+    "nombreMascota": "Mascota41",
+    "fecha": "2024-11-13",
+    "motivo": "Chequeo dental",
+    "peso": 3.6,
+    "tratamiento": "Limpieza dental"
+  },
+  {
+    "nombreMascota": "Mascota66",
+    "fecha": "2024-07-13",
+    "motivo": "Enfermedad",
+    "peso": 16.1,
+    "tratamiento": "Vitaminas"
+  }
+]
